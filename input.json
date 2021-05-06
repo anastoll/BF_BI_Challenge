@@ -1,0 +1,28 @@
+[{"owner": "John Doe",
+              "availableBalance": 50,
+              "accountProvider": {"name": "JP Morgan Chase", "id": "JPMC"},
+              "number": {"iban": "DE0000000000000000"},
+              "currency": "RUB",
+              "transactions": [{"account_id": "account1",
+                                "amount": -100,
+                                "balance": {"currency": "RUB", "value": 100},
+                                "creationDate": "0001-01-01T00:00:00",
+                                "text": "ATM WITHDRAWAL"},
+                               {"account_id": "account1",
+                                "amount": 50,
+                                "balance": {"currency": "RUB", "value": 0},
+                                "creationDate": "0001-01-01T00:10:00",
+                                "text": "Payment between friends"}]
+             },
+             {"owner": "John Doe",
+              "availableBalance": 0,
+              "accountProvider": {"name": "JP Morgan Chase", "id": "JPMC"},
+              "number": {"iban": "DE0000000000000001"},
+              "currency": "RUB",
+              "transactions": [{"account_id": "account2",
+                                "amount": -1000,
+                                "balance": {"currency": "RUB", "value": 1000},
+                                "creationDate": "0001-01-02T00:00:00",
+                                "text": "ATM WITHDRAWAL"}]
+                        }
+             ]

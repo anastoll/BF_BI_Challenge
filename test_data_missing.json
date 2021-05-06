@@ -1,0 +1,2118 @@
+[
+    {
+        "owner": "John Doe",
+        "availableBalance": 50.0,
+        "accountProvider": {
+            "name": "JP Morgan Chase",
+            "id": "JPMC"
+        },
+        "number": {
+            "iban": "DE0000000000000000"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account1",
+                "amount": -100,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 100
+                },
+                "creationDate": "0001-01-01T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            },
+            {
+                "account_id": "account1",
+                "amount": 50,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 0
+                },
+                "creationDate": "0001-01-01T00:10:00",
+                "text": "Payment between friends"
+            }
+        ]
+    },
+    {
+        "owner": "",
+        "availableBalance": 0.0,
+        "accountProvider": {
+            "name": "JP Morgan Chase",
+            "id": "JPMC"
+        },
+        "number": {
+            "iban": "DE0000000000000001"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account2",
+                "amount": -1000,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1000
+                },
+                "creationDate": "0001-01-02T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            }
+        ]
+    },
+    {
+        "owner": "Patrick Barrera",
+        "availableBalance": 275.49,
+        "accountProvider": {
+            "name": "BNP Paribas",
+            "id": "BNP"
+        },
+        "number": {
+            "iban": ""
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account3",
+                "amount": 371.68,
+                "balance": {
+                    "currency": "RUB",
+                    "value": -96.19
+                },
+                "creationDate": "2021-02-09T00:00:00",
+                "text": "payrol"
+            }
+        ]
+    },
+    {
+        "owner": "Ruben Perry",
+        "availableBalance": 592.55,
+        "accountProvider": {
+            "name": "",
+            "id": ""
+        },
+        "number": {
+            "iban": "DE0000000000000003"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account4",
+                "amount": 639.92,
+                "balance": {
+                    "currency": "RUB",
+                    "value": -47.37
+                },
+                "creationDate": "2021-04-06T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account4",
+                "amount": -676.41,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 629.04
+                },
+                "creationDate": "2021-03-04T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            },
+            {
+                "account_id": "account4",
+                "amount": -574.91,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1203.95
+                },
+                "creationDate": "2021-01-18T00:00:00",
+                "text": "Credit card payment"
+            }
+        ]
+    },
+    {
+        "owner": "Felix Stallings",
+        "availableBalance": 766.67,
+        "accountProvider": {
+            "name": "JP Morgan Chase",
+            "id": "JPMC"
+        },
+        "number": {
+            "iban": "DE0000000000000004"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account5",
+                "amount": 291.83,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 474.84
+                },
+                "creationDate": "2021-04-18T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account5",
+                "amount": 846.3,
+                "balance": {
+                    "currency": "RUB",
+                    "value": -371.46
+                },
+                "creationDate": "2021-05-05T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account5",
+                "amount": -538.54,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 167.08
+                },
+                "creationDate": "2021-02-03T00:00:00",
+                "text": "Mortage payment"
+            }
+        ]
+    },
+    {
+        "owner": "Alberto Myers",
+        "availableBalance": 957.11,
+        "accountProvider": {
+            "name": "BNP Paribas",
+            "id": "BNP"
+        },
+        "number": {
+            "iban": "ES0000000000000005"
+        },
+        "currency": "EUR",
+        "transactions": [
+            {
+                "account_id": "account6",
+                "amount": -140.61,
+                "balance": {
+                    "currency": "EUR",
+                    "value": 1097.72
+                },
+                "creationDate": "2021-01-08T00:00:00",
+                "text": "Credit card payment"
+            }
+        ]
+    },
+    {
+        "owner": "James Gilpatrick",
+        "availableBalance": 343.55,
+        "accountProvider": {
+            "name": "HSBC Holdings",
+            "id": "HSBC"
+        },
+        "number": {
+            "iban": "LU0000000000000006"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account7",
+                "amount": -457.93,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 801.48
+                },
+                "creationDate": "2021-01-22T00:00:00",
+                "text": "Mortage payment"
+            },
+            {
+                "account_id": "account7",
+                "amount": -363.22,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1164.7
+                },
+                "creationDate": "2021-04-24T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            },
+            {
+                "account_id": "account7",
+                "amount": 682.68,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 482.02
+                },
+                "creationDate": "2021-03-12T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account7",
+                "amount": 251.67,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 230.35
+                },
+                "creationDate": "2021-04-12T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account7",
+                "amount": 168.51,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 61.84
+                },
+                "creationDate": "2021-03-23T00:00:00",
+                "text": "International transfer income"
+            }
+        ]
+    },
+    {
+        "owner": "Annie Sanderson",
+        "availableBalance": 544.97,
+        "accountProvider": {
+            "name": "HSBC Holdings",
+            "id": "HSBC"
+        },
+        "number": {
+            "iban": "ES0000000000000007"
+        },
+        "currency": "RUB",
+        "transactions": []
+    },
+    {
+        "owner": "William Yarbrough",
+        "availableBalance": 148.98,
+        "accountProvider": {
+            "name": "HSBC Holdings",
+            "id": "HSBC"
+        },
+        "number": {
+            "iban": "LU0000000000000008"
+        },
+        "currency": "EUR",
+        "transactions": []
+    },
+    {
+        "owner": "Luis Camacho",
+        "availableBalance": 228.24,
+        "accountProvider": {
+            "name": "BNP Paribas",
+            "id": "BNP"
+        },
+        "number": {
+            "iban": "DE0000000000000009"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account10",
+                "amount": 673.25,
+                "balance": {
+                    "currency": "RUB",
+                    "value": -445.01
+                },
+                "creationDate": "2021-04-21T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account10",
+                "amount": 30.22,
+                "balance": {
+                    "currency": "RUB",
+                    "value": -475.23
+                },
+                "creationDate": "2021-03-01T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account10",
+                "amount": -147.49,
+                "balance": {
+                    "currency": "RUB",
+                    "value": -327.74
+                },
+                "creationDate": "2021-01-03T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            }
+        ]
+    },
+    {
+        "owner": "Cheryl Jacobsen",
+        "availableBalance": 386.26,
+        "accountProvider": {
+            "name": "JP Morgan Chase",
+            "id": "JPMC"
+        },
+        "number": {
+            "iban": "DE0000000000000010"
+        },
+        "currency": "USD",
+        "transactions": [
+            {
+                "account_id": "account11",
+                "amount": -298.35,
+                "balance": {
+                    "currency": "USD",
+                    "value": 684.61
+                },
+                "creationDate": "2021-03-05T00:00:00",
+                "text": "Credit card payment"
+            },
+            {
+                "account_id": "account11",
+                "amount": 939.45,
+                "balance": {
+                    "currency": "USD",
+                    "value": -254.84
+                },
+                "creationDate": "2021-04-14T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account11",
+                "amount": -879.68,
+                "balance": {
+                    "currency": "USD",
+                    "value": 624.84
+                },
+                "creationDate": "2021-02-23T00:00:00",
+                "text": "Credit card payment"
+            },
+            {
+                "account_id": "account11",
+                "amount": 403.38,
+                "balance": {
+                    "currency": "USD",
+                    "value": 221.46
+                },
+                "creationDate": "2021-01-30T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account11",
+                "amount": -401.5,
+                "balance": {
+                    "currency": "USD",
+                    "value": 622.96
+                },
+                "creationDate": "2021-05-04T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            },
+            {
+                "account_id": "account11",
+                "amount": 994.2,
+                "balance": {
+                    "currency": "USD",
+                    "value": -371.24
+                },
+                "creationDate": "2021-03-14T00:00:00",
+                "text": "International transfer income"
+            }
+        ]
+    },
+    {
+        "owner": "Tiara Orphey",
+        "availableBalance": 708.86,
+        "accountProvider": {
+            "name": "BNP Paribas",
+            "id": "BNP"
+        },
+        "number": {
+            "iban": "LU0000000000000011"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account12",
+                "amount": -617.78,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1326.64
+                },
+                "creationDate": "2021-01-21T00:00:00",
+                "text": "Mortage payment"
+            },
+            {
+                "account_id": "account12",
+                "amount": -339.99,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1666.63
+                },
+                "creationDate": "2021-02-21T00:00:00",
+                "text": "Credit card payment"
+            },
+            {
+                "account_id": "account12",
+                "amount": 823.82,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 842.81
+                },
+                "creationDate": "2021-02-21T00:00:00",
+                "text": "International transfer income"
+            }
+        ]
+    },
+    {
+        "owner": "Charlotte Jarrett",
+        "availableBalance": 745.98,
+        "accountProvider": {
+            "name": "ING Group",
+            "id": "ING"
+        },
+        "number": {
+            "iban": "ES0000000000000012"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account13",
+                "amount": 110.32,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 635.66
+                },
+                "creationDate": "2021-02-15T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account13",
+                "amount": 599.68,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 35.98
+                },
+                "creationDate": "2021-04-24T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account13",
+                "amount": 441.19,
+                "balance": {
+                    "currency": "RUB",
+                    "value": -405.21
+                },
+                "creationDate": "2021-01-09T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account13",
+                "amount": -914.48,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 509.27
+                },
+                "creationDate": "2021-02-16T00:00:00",
+                "text": "Mortage payment"
+            },
+            {
+                "account_id": "account13",
+                "amount": -378.25,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 887.52
+                },
+                "creationDate": "2021-04-15T00:00:00",
+                "text": "Credit card payment"
+            }
+        ]
+    },
+    {
+        "owner": "Virginia Gilliss",
+        "availableBalance": 726.04,
+        "accountProvider": {
+            "name": "BNP Paribas",
+            "id": "BNP"
+        },
+        "number": {
+            "iban": "DE0000000000000013"
+        },
+        "currency": "EUR",
+        "transactions": []
+    },
+    {
+        "owner": "Jeffrey Warrick",
+        "availableBalance": 780.42,
+        "accountProvider": {
+            "name": "JP Morgan Chase",
+            "id": "JPMC"
+        },
+        "number": {
+            "iban": "ES0000000000000014"
+        },
+        "currency": "EUR",
+        "transactions": [
+            {
+                "account_id": "account15",
+                "amount": 46.33,
+                "balance": {
+                    "currency": "EUR",
+                    "value": 734.09
+                },
+                "creationDate": "2021-01-21T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account15",
+                "amount": -69.27,
+                "balance": {
+                    "currency": "EUR",
+                    "value": 803.36
+                },
+                "creationDate": "2021-03-05T00:00:00",
+                "text": "Mortage payment"
+            }
+        ]
+    },
+    {
+        "owner": "William Odaniel",
+        "availableBalance": 47.87,
+        "accountProvider": {
+            "name": "JP Morgan Chase",
+            "id": "JPMC"
+        },
+        "number": {
+            "iban": "LU0000000000000015"
+        },
+        "currency": "EUR",
+        "transactions": [
+            {
+                "account_id": "account16",
+                "amount": -476.4,
+                "balance": {
+                    "currency": "EUR",
+                    "value": 524.27
+                },
+                "creationDate": "2021-03-18T00:00:00",
+                "text": "Mortage payment"
+            },
+            {
+                "account_id": "account16",
+                "amount": 312.53,
+                "balance": {
+                    "currency": "EUR",
+                    "value": 211.74
+                },
+                "creationDate": "2021-03-23T00:00:00",
+                "text": "International transfer income"
+            }
+        ]
+    },
+    {
+        "owner": "John Pacheco",
+        "availableBalance": 25.55,
+        "accountProvider": {
+            "name": "BNP Paribas",
+            "id": "BNP"
+        },
+        "number": {
+            "iban": "LU0000000000000016"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account17",
+                "amount": 421.27,
+                "balance": {
+                    "currency": "RUB",
+                    "value": -395.72
+                },
+                "creationDate": "2021-04-20T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account17",
+                "amount": -77.96,
+                "balance": {
+                    "currency": "RUB",
+                    "value": -317.76
+                },
+                "creationDate": "2021-03-01T00:00:00",
+                "text": "Credit card payment"
+            },
+            {
+                "account_id": "account17",
+                "amount": 98.15,
+                "balance": {
+                    "currency": "RUB",
+                    "value": -415.91
+                },
+                "creationDate": "2021-04-29T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account17",
+                "amount": 434.7,
+                "balance": {
+                    "currency": "RUB",
+                    "value": -850.61
+                },
+                "creationDate": "2021-03-23T00:00:00",
+                "text": "payrol"
+            }
+        ]
+    },
+    {
+        "owner": "Russell Gonzalez",
+        "availableBalance": 464.63,
+        "accountProvider": {
+            "name": "HSBC Holdings",
+            "id": "HSBC"
+        },
+        "number": {
+            "iban": "ES0000000000000017"
+        },
+        "currency": "USD",
+        "transactions": [
+            {
+                "account_id": "account18",
+                "amount": -813.27,
+                "balance": {
+                    "currency": "USD",
+                    "value": 1277.9
+                },
+                "creationDate": "2021-03-19T00:00:00",
+                "text": "Mortage payment"
+            },
+            {
+                "account_id": "account18",
+                "amount": 735.18,
+                "balance": {
+                    "currency": "USD",
+                    "value": 542.72
+                },
+                "creationDate": "2021-04-05T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account18",
+                "amount": 679.83,
+                "balance": {
+                    "currency": "USD",
+                    "value": -137.11
+                },
+                "creationDate": "2021-03-18T00:00:00",
+                "text": "payrol"
+            }
+        ]
+    },
+    {
+        "owner": "Louise Kutner",
+        "availableBalance": 81.39,
+        "accountProvider": {
+            "name": "HSBC Holdings",
+            "id": "HSBC"
+        },
+        "number": {
+            "iban": "LU0000000000000018"
+        },
+        "currency": "EUR",
+        "transactions": [
+            {
+                "account_id": "account19",
+                "amount": -889.26,
+                "balance": {
+                    "currency": "EUR",
+                    "value": 970.65
+                },
+                "creationDate": "2021-02-07T00:00:00",
+                "text": "Payment between friends"
+            },
+            {
+                "account_id": "account19",
+                "amount": 528.6,
+                "balance": {
+                    "currency": "EUR",
+                    "value": 442.05
+                },
+                "creationDate": "2021-02-04T00:00:00",
+                "text": "payrol"
+            }
+        ]
+    },
+    {
+        "owner": "Philip Peterson",
+        "availableBalance": 619.87,
+        "accountProvider": {
+            "name": "ING Group",
+            "id": "ING"
+        },
+        "number": {
+            "iban": "DE0000000000000019"
+        },
+        "currency": "USD",
+        "transactions": [
+            {
+                "account_id": "account20",
+                "amount": -184.51,
+                "balance": {
+                    "currency": "USD",
+                    "value": 804.38
+                },
+                "creationDate": "2021-02-21T00:00:00",
+                "text": "Payment between friends"
+            },
+            {
+                "account_id": "account20",
+                "amount": 659.39,
+                "balance": {
+                    "currency": "USD",
+                    "value": 144.99
+                },
+                "creationDate": "2021-03-28T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account20",
+                "amount": 858.38,
+                "balance": {
+                    "currency": "USD",
+                    "value": -713.39
+                },
+                "creationDate": "2021-03-11T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account20",
+                "amount": 784.78,
+                "balance": {
+                    "currency": "USD",
+                    "value": -1498.17
+                },
+                "creationDate": "2021-02-17T00:00:00",
+                "text": "payrol"
+            }
+        ]
+    },
+    {
+        "owner": "Dave Dawkins",
+        "availableBalance": 879.34,
+        "accountProvider": {
+            "name": "HSBC Holdings",
+            "id": "HSBC"
+        },
+        "number": {
+            "iban": "ES0000000000000020"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account21",
+                "amount": -355.34,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1234.68
+                },
+                "creationDate": "2021-01-19T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            },
+            {
+                "account_id": "account21",
+                "amount": 541.07,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 693.61
+                },
+                "creationDate": "2021-04-03T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account21",
+                "amount": -932.37,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1625.98
+                },
+                "creationDate": "2021-01-27T00:00:00",
+                "text": "Payment between friends"
+            },
+            {
+                "account_id": "account21",
+                "amount": 71.59,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1554.39
+                },
+                "creationDate": "2021-05-05T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account21",
+                "amount": -336.74,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1891.13
+                },
+                "creationDate": "2021-01-22T00:00:00",
+                "text": "Mortage payment"
+            },
+            {
+                "account_id": "account21",
+                "amount": -494.47,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 2385.6
+                },
+                "creationDate": "2021-03-31T00:00:00",
+                "text": "Payment between friends"
+            }
+        ]
+    },
+    {
+        "owner": "Joyce Carpenter",
+        "availableBalance": 225.34,
+        "accountProvider": {
+            "name": "JP Morgan Chase",
+            "id": "JPMC"
+        },
+        "number": {
+            "iban": "DE0000000000000021"
+        },
+        "currency": "EUR",
+        "transactions": [
+            {
+                "account_id": "account22",
+                "amount": 634.38,
+                "balance": {
+                    "currency": "EUR",
+                    "value": -409.04
+                },
+                "creationDate": "2021-03-23T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account22",
+                "amount": 809.9,
+                "balance": {
+                    "currency": "EUR",
+                    "value": -1218.94
+                },
+                "creationDate": "2021-04-01T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account22",
+                "amount": 436.92,
+                "balance": {
+                    "currency": "EUR",
+                    "value": -1655.86
+                },
+                "creationDate": "2021-02-16T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account22",
+                "amount": 902.33,
+                "balance": {
+                    "currency": "EUR",
+                    "value": -2558.19
+                },
+                "creationDate": "2021-03-17T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account22",
+                "amount": -843.53,
+                "balance": {
+                    "currency": "EUR",
+                    "value": -1714.66
+                },
+                "creationDate": "2021-04-16T00:00:00",
+                "text": "Payment between friends"
+            }
+        ]
+    },
+    {
+        "owner": "Kenneth Young",
+        "availableBalance": 155.09,
+        "accountProvider": {
+            "name": "JP Morgan Chase",
+            "id": "JPMC"
+        },
+        "number": {
+            "iban": "ES0000000000000022"
+        },
+        "currency": "EUR",
+        "transactions": [
+            {
+                "account_id": "account23",
+                "amount": 574.91,
+                "balance": {
+                    "currency": "EUR",
+                    "value": -419.82
+                },
+                "creationDate": "2021-03-09T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account23",
+                "amount": 63.43,
+                "balance": {
+                    "currency": "EUR",
+                    "value": -483.25
+                },
+                "creationDate": "2021-02-07T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account23",
+                "amount": -773.84,
+                "balance": {
+                    "currency": "EUR",
+                    "value": 290.59
+                },
+                "creationDate": "2021-03-25T00:00:00",
+                "text": "Payment between friends"
+            },
+            {
+                "account_id": "account23",
+                "amount": 557.16,
+                "balance": {
+                    "currency": "EUR",
+                    "value": -266.57
+                },
+                "creationDate": "2021-02-15T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account23",
+                "amount": 29.02,
+                "balance": {
+                    "currency": "EUR",
+                    "value": -295.59
+                },
+                "creationDate": "2021-04-20T00:00:00",
+                "text": "International transfer income"
+            }
+        ]
+    },
+    {
+        "owner": "Jean Carter",
+        "availableBalance": 617.46,
+        "accountProvider": {
+            "name": "ING Group",
+            "id": "ING"
+        },
+        "number": {
+            "iban": "ES0000000000000023"
+        },
+        "currency": "USD",
+        "transactions": [
+            {
+                "account_id": "account24",
+                "amount": -706.37,
+                "balance": {
+                    "currency": "USD",
+                    "value": 1323.83
+                },
+                "creationDate": "2021-02-09T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            },
+            {
+                "account_id": "account24",
+                "amount": 879.46,
+                "balance": {
+                    "currency": "USD",
+                    "value": 444.37
+                },
+                "creationDate": "2021-02-16T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account24",
+                "amount": -657.46,
+                "balance": {
+                    "currency": "USD",
+                    "value": 1101.83
+                },
+                "creationDate": "2021-01-20T00:00:00",
+                "text": "Payment between friends"
+            },
+            {
+                "account_id": "account24",
+                "amount": 325.47,
+                "balance": {
+                    "currency": "USD",
+                    "value": 776.36
+                },
+                "creationDate": "2021-02-27T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account24",
+                "amount": 865.35,
+                "balance": {
+                    "currency": "USD",
+                    "value": -88.99
+                },
+                "creationDate": "2021-02-01T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account24",
+                "amount": -767.38,
+                "balance": {
+                    "currency": "USD",
+                    "value": 678.39
+                },
+                "creationDate": "2021-04-29T00:00:00",
+                "text": "Credit card payment"
+            }
+        ]
+    },
+    {
+        "owner": "Lucille Hyder",
+        "availableBalance": 472.34,
+        "accountProvider": {
+            "name": "JP Morgan Chase",
+            "id": "JPMC"
+        },
+        "number": {
+            "iban": "ES0000000000000024"
+        },
+        "currency": "EUR",
+        "transactions": [
+            {
+                "account_id": "account25",
+                "amount": 246.24,
+                "balance": {
+                    "currency": "EUR",
+                    "value": 226.1
+                },
+                "creationDate": "2021-03-24T00:00:00",
+                "text": "International transfer income"
+            }
+        ]
+    },
+    {
+        "owner": "Betty Pace",
+        "availableBalance": 601.98,
+        "accountProvider": {
+            "name": "JP Morgan Chase",
+            "id": "JPMC"
+        },
+        "number": {
+            "iban": "LU0000000000000025"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account26",
+                "amount": 855.66,
+                "balance": {
+                    "currency": "RUB",
+                    "value": -253.68
+                },
+                "creationDate": "2021-01-02T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account26",
+                "amount": -983.21,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 729.53
+                },
+                "creationDate": "2021-01-07T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            },
+            {
+                "account_id": "account26",
+                "amount": 36.63,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 692.9
+                },
+                "creationDate": "2021-01-17T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account26",
+                "amount": -431.81,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1124.71
+                },
+                "creationDate": "2021-03-14T00:00:00",
+                "text": "Payment between friends"
+            }
+        ]
+    },
+    {
+        "owner": "Angela Neal",
+        "availableBalance": 760.61,
+        "accountProvider": {
+            "name": "BNP Paribas",
+            "id": "BNP"
+        },
+        "number": {
+            "iban": "LU0000000000000026"
+        },
+        "currency": "USD",
+        "transactions": [
+            {
+                "account_id": "account27",
+                "amount": 243.0,
+                "balance": {
+                    "currency": "USD",
+                    "value": 517.61
+                },
+                "creationDate": "2021-04-01T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account27",
+                "amount": -445.1,
+                "balance": {
+                    "currency": "USD",
+                    "value": 962.71
+                },
+                "creationDate": "2021-02-18T00:00:00",
+                "text": "Mortage payment"
+            },
+            {
+                "account_id": "account27",
+                "amount": 92.55,
+                "balance": {
+                    "currency": "USD",
+                    "value": 870.16
+                },
+                "creationDate": "2021-04-11T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account27",
+                "amount": -560.75,
+                "balance": {
+                    "currency": "USD",
+                    "value": 1430.91
+                },
+                "creationDate": "2021-02-05T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            }
+        ]
+    },
+    {
+        "owner": "Lonnie Sharp",
+        "availableBalance": 941.83,
+        "accountProvider": {
+            "name": "ING Group",
+            "id": "ING"
+        },
+        "number": {
+            "iban": "ES0000000000000027"
+        },
+        "currency": "USD",
+        "transactions": [
+            {
+                "account_id": "account28",
+                "amount": -672.71,
+                "balance": {
+                    "currency": "USD",
+                    "value": 1614.54
+                },
+                "creationDate": "2021-03-03T00:00:00",
+                "text": "Credit card payment"
+            },
+            {
+                "account_id": "account28",
+                "amount": 210.65,
+                "balance": {
+                    "currency": "USD",
+                    "value": 1403.89
+                },
+                "creationDate": "2021-03-10T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account28",
+                "amount": -76.13,
+                "balance": {
+                    "currency": "USD",
+                    "value": 1480.02
+                },
+                "creationDate": "2021-02-07T00:00:00",
+                "text": "Payment between friends"
+            }
+        ]
+    },
+    {
+        "owner": "Julian Unger",
+        "availableBalance": 73.98,
+        "accountProvider": {
+            "name": "JP Morgan Chase",
+            "id": "JPMC"
+        },
+        "number": {
+            "iban": "LU0000000000000028"
+        },
+        "currency": "USD",
+        "transactions": [
+            {
+                "account_id": "account29",
+                "amount": -76.29,
+                "balance": {
+                    "currency": "USD",
+                    "value": 150.27
+                },
+                "creationDate": "2021-04-08T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            },
+            {
+                "account_id": "account29",
+                "amount": -789.75,
+                "balance": {
+                    "currency": "USD",
+                    "value": 940.02
+                },
+                "creationDate": "2021-02-25T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            },
+            {
+                "account_id": "account29",
+                "amount": 573.04,
+                "balance": {
+                    "currency": "USD",
+                    "value": 366.98
+                },
+                "creationDate": "2021-03-22T00:00:00",
+                "text": "payrol"
+            }
+        ]
+    },
+    {
+        "owner": "Marshall Craig",
+        "availableBalance": 678.11,
+        "accountProvider": {
+            "name": "Barclays PLC",
+            "id": "BARC"
+        },
+        "number": {
+            "iban": "ES0000000000000029"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account30",
+                "amount": -757.11,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1435.22
+                },
+                "creationDate": "2021-04-23T00:00:00",
+                "text": "Credit card payment"
+            },
+            {
+                "account_id": "account30",
+                "amount": 439.77,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 995.45
+                },
+                "creationDate": "2021-01-29T00:00:00",
+                "text": "payrol"
+            }
+        ]
+    },
+    {
+        "owner": "Stuart Michalek",
+        "availableBalance": 730.17,
+        "accountProvider": {
+            "name": "Barclays PLC",
+            "id": "BARC"
+        },
+        "number": {
+            "iban": "LU0000000000000030"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account31",
+                "amount": 170.1,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 560.07
+                },
+                "creationDate": "2021-03-16T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account31",
+                "amount": 87.21,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 472.86
+                },
+                "creationDate": "2021-02-16T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account31",
+                "amount": -251.46,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 724.32
+                },
+                "creationDate": "2021-01-31T00:00:00",
+                "text": "Mortage payment"
+            },
+            {
+                "account_id": "account31",
+                "amount": 56.56,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 667.76
+                },
+                "creationDate": "2021-03-26T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account31",
+                "amount": -990.4,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1658.16
+                },
+                "creationDate": "2021-01-29T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            }
+        ]
+    },
+    {
+        "owner": "David Hickman",
+        "availableBalance": 646.72,
+        "accountProvider": {
+            "name": "Barclays PLC",
+            "id": "BARC"
+        },
+        "number": {
+            "iban": "LU0000000000000031"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account32",
+                "amount": -515.4,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1162.12
+                },
+                "creationDate": "2021-01-24T00:00:00",
+                "text": "Payment between friends"
+            }
+        ]
+    },
+    {
+        "owner": "Michael Ray",
+        "availableBalance": 128.91,
+        "accountProvider": {
+            "name": "BNP Paribas",
+            "id": "BNP"
+        },
+        "number": {
+            "iban": "DE0000000000000032"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account33",
+                "amount": -827.49,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 956.4
+                },
+                "creationDate": "2021-05-04T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            }
+        ]
+    },
+    {
+        "owner": "Kelly Gibson",
+        "availableBalance": 779.74,
+        "accountProvider": {
+            "name": "ING Group",
+            "id": "ING"
+        },
+        "number": {
+            "iban": "LU0000000000000033"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account34",
+                "amount": -361.83,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1141.57
+                },
+                "creationDate": "2021-01-31T00:00:00",
+                "text": "Credit card payment"
+            },
+            {
+                "account_id": "account34",
+                "amount": 212.43,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 929.14
+                },
+                "creationDate": "2021-02-12T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account34",
+                "amount": -93.64,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1022.78
+                },
+                "creationDate": "2021-01-17T00:00:00",
+                "text": "Credit card payment"
+            },
+            {
+                "account_id": "account34",
+                "amount": -958.82,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1981.6
+                },
+                "creationDate": "2021-01-27T00:00:00",
+                "text": "Mortage payment"
+            }
+        ]
+    },
+    {
+        "owner": "Bryon Villa",
+        "availableBalance": 472.67,
+        "accountProvider": {
+            "name": "Barclays PLC",
+            "id": "BARC"
+        },
+        "number": {
+            "iban": "LU0000000000000034"
+        },
+        "currency": "USD",
+        "transactions": [
+            {
+                "account_id": "account35",
+                "amount": 175.24,
+                "balance": {
+                    "currency": "USD",
+                    "value": 297.43
+                },
+                "creationDate": "2021-01-25T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account35",
+                "amount": 106.74,
+                "balance": {
+                    "currency": "USD",
+                    "value": 190.69
+                },
+                "creationDate": "2021-04-23T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account35",
+                "amount": -718.41,
+                "balance": {
+                    "currency": "USD",
+                    "value": 909.1
+                },
+                "creationDate": "2021-03-25T00:00:00",
+                "text": "Credit card payment"
+            },
+            {
+                "account_id": "account35",
+                "amount": -408.27,
+                "balance": {
+                    "currency": "USD",
+                    "value": 1317.37
+                },
+                "creationDate": "2021-01-27T00:00:00",
+                "text": "Credit card payment"
+            }
+        ]
+    },
+    {
+        "owner": "Maureen Palmer",
+        "availableBalance": 279.04,
+        "accountProvider": {
+            "name": "ING Group",
+            "id": "ING"
+        },
+        "number": {
+            "iban": "LU0000000000000035"
+        },
+        "currency": "USD",
+        "transactions": [
+            {
+                "account_id": "account36",
+                "amount": -945.3,
+                "balance": {
+                    "currency": "USD",
+                    "value": 1224.34
+                },
+                "creationDate": "2021-02-10T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            }
+        ]
+    },
+    {
+        "owner": "Michael Storck",
+        "availableBalance": 668.67,
+        "accountProvider": {
+            "name": "JP Morgan Chase",
+            "id": "JPMC"
+        },
+        "number": {
+            "iban": "LU0000000000000036"
+        },
+        "currency": "EUR",
+        "transactions": [
+            {
+                "account_id": "account37",
+                "amount": 143.78,
+                "balance": {
+                    "currency": "EUR",
+                    "value": 524.89
+                },
+                "creationDate": "2021-04-26T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account37",
+                "amount": -679.08,
+                "balance": {
+                    "currency": "EUR",
+                    "value": 1203.97
+                },
+                "creationDate": "2021-01-09T00:00:00",
+                "text": "Mortage payment"
+            },
+            {
+                "account_id": "account37",
+                "amount": 335.72,
+                "balance": {
+                    "currency": "EUR",
+                    "value": 868.25
+                },
+                "creationDate": "2021-02-17T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account37",
+                "amount": 341.56,
+                "balance": {
+                    "currency": "EUR",
+                    "value": 526.69
+                },
+                "creationDate": "2021-04-25T00:00:00",
+                "text": "International transfer income"
+            }
+        ]
+    },
+    {
+        "owner": "Laura Cespedes",
+        "availableBalance": 395.4,
+        "accountProvider": {
+            "name": "ING Group",
+            "id": "ING"
+        },
+        "number": {
+            "iban": "LU0000000000000037"
+        },
+        "currency": "EUR",
+        "transactions": [
+            {
+                "account_id": "account38",
+                "amount": 923.29,
+                "balance": {
+                    "currency": "EUR",
+                    "value": -527.89
+                },
+                "creationDate": "2021-04-18T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account38",
+                "amount": -717.11,
+                "balance": {
+                    "currency": "EUR",
+                    "value": 189.22
+                },
+                "creationDate": "2021-03-21T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            },
+            {
+                "account_id": "account38",
+                "amount": 671.36,
+                "balance": {
+                    "currency": "EUR",
+                    "value": -482.14
+                },
+                "creationDate": "2021-03-18T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account38",
+                "amount": -690.0,
+                "balance": {
+                    "currency": "EUR",
+                    "value": 207.86
+                },
+                "creationDate": "2021-04-27T00:00:00",
+                "text": "Credit card payment"
+            }
+        ]
+    },
+    {
+        "owner": "Stacey Dupre",
+        "availableBalance": 405.36,
+        "accountProvider": {
+            "name": "JP Morgan Chase",
+            "id": "JPMC"
+        },
+        "number": {
+            "iban": "DE0000000000000038"
+        },
+        "currency": "EUR",
+        "transactions": []
+    },
+    {
+        "owner": "Richard Atkins",
+        "availableBalance": 637.32,
+        "accountProvider": {
+            "name": "Barclays PLC",
+            "id": "BARC"
+        },
+        "number": {
+            "iban": "DE0000000000000039"
+        },
+        "currency": "USD",
+        "transactions": []
+    },
+    {
+        "owner": "Daniel Martinez",
+        "availableBalance": 830.26,
+        "accountProvider": {
+            "name": "HSBC Holdings",
+            "id": "HSBC"
+        },
+        "number": {
+            "iban": "DE0000000000000040"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account41",
+                "amount": 47.92,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 782.34
+                },
+                "creationDate": "2021-04-06T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account41",
+                "amount": 124.14,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 658.2
+                },
+                "creationDate": "2021-03-28T00:00:00",
+                "text": "International transfer income"
+            }
+        ]
+    },
+    {
+        "owner": "Lance Darrin",
+        "availableBalance": 672.7,
+        "accountProvider": {
+            "name": "ING Group",
+            "id": "ING"
+        },
+        "number": {
+            "iban": "DE0000000000000041"
+        },
+        "currency": "USD",
+        "transactions": [
+            {
+                "account_id": "account42",
+                "amount": -724.75,
+                "balance": {
+                    "currency": "USD",
+                    "value": 1397.45
+                },
+                "creationDate": "2021-02-16T00:00:00",
+                "text": "Credit card payment"
+            },
+            {
+                "account_id": "account42",
+                "amount": -158.82,
+                "balance": {
+                    "currency": "USD",
+                    "value": 1556.27
+                },
+                "creationDate": "2021-02-18T00:00:00",
+                "text": "Mortage payment"
+            }
+        ]
+    },
+    {
+        "owner": "Thomas Johnson",
+        "availableBalance": 27.82,
+        "accountProvider": {
+            "name": "ING Group",
+            "id": "ING"
+        },
+        "number": {
+            "iban": "LU0000000000000042"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account43",
+                "amount": -515.13,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 542.95
+                },
+                "creationDate": "2021-03-13T00:00:00",
+                "text": "Credit card payment"
+            }
+        ]
+    },
+    {
+        "owner": "Jesse Lemen",
+        "availableBalance": 273.02,
+        "accountProvider": {
+            "name": "BNP Paribas",
+            "id": "BNP"
+        },
+        "number": {
+            "iban": "DE0000000000000043"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account44",
+                "amount": -316.1,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 589.12
+                },
+                "creationDate": "2021-01-19T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            },
+            {
+                "account_id": "account44",
+                "amount": 449.64,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 139.48
+                },
+                "creationDate": "2021-02-09T00:00:00",
+                "text": "International transfer income"
+            }
+        ]
+    },
+    {
+        "owner": "Lola Erickson",
+        "availableBalance": 247.21,
+        "accountProvider": {
+            "name": "JP Morgan Chase",
+            "id": "JPMC"
+        },
+        "number": {
+            "iban": "LU0000000000000044"
+        },
+        "currency": "EUR",
+        "transactions": [
+            {
+                "account_id": "account45",
+                "amount": -172.02,
+                "balance": {
+                    "currency": "EUR",
+                    "value": 419.23
+                },
+                "creationDate": "2021-02-28T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            }
+        ]
+    },
+    {
+        "owner": "Melvin Singer",
+        "availableBalance": 765.74,
+        "accountProvider": {
+            "name": "ING Group",
+            "id": "ING"
+        },
+        "number": {
+            "iban": "ES0000000000000045"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account46",
+                "amount": -927.97,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1693.71
+                },
+                "creationDate": "2021-02-22T00:00:00",
+                "text": "Payment between friends"
+            },
+            {
+                "account_id": "account46",
+                "amount": -46.64,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1740.35
+                },
+                "creationDate": "2021-01-09T00:00:00",
+                "text": "Payment between friends"
+            },
+            {
+                "account_id": "account46",
+                "amount": 159.68,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1580.67
+                },
+                "creationDate": "2021-01-09T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account46",
+                "amount": 735.67,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 845.0
+                },
+                "creationDate": "2021-02-09T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account46",
+                "amount": 706.14,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 138.86
+                },
+                "creationDate": "2021-01-14T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account46",
+                "amount": 81.58,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 57.28
+                },
+                "creationDate": "2021-04-12T00:00:00",
+                "text": "payrol"
+            }
+        ]
+    },
+    {
+        "owner": "Michelle Hirschfeld",
+        "availableBalance": 791.76,
+        "accountProvider": {
+            "name": "Barclays PLC",
+            "id": "BARC"
+        },
+        "number": {
+            "iban": "ES0000000000000046"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account47",
+                "amount": -105.35,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 897.11
+                },
+                "creationDate": "2021-03-07T00:00:00",
+                "text": "Payment between friends"
+            },
+            {
+                "account_id": "account47",
+                "amount": -500.29,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 1397.4
+                },
+                "creationDate": "2021-03-01T00:00:00",
+                "text": "Payment between friends"
+            },
+            {
+                "account_id": "account47",
+                "amount": -740.49,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 2137.89
+                },
+                "creationDate": "2021-03-18T00:00:00",
+                "text": "Credit card payment"
+            },
+            {
+                "account_id": "account47",
+                "amount": -848.14,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 2986.03
+                },
+                "creationDate": "2021-05-03T00:00:00",
+                "text": "Payment between friends"
+            },
+            {
+                "account_id": "account47",
+                "amount": 541.03,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 2445.0
+                },
+                "creationDate": "2021-01-18T00:00:00",
+                "text": "International transfer income"
+            }
+        ]
+    },
+    {
+        "owner": "Henry Beaudry",
+        "availableBalance": 266.94,
+        "accountProvider": {
+            "name": "HSBC Holdings",
+            "id": "HSBC"
+        },
+        "number": {
+            "iban": "ES0000000000000047"
+        },
+        "currency": "RUB",
+        "transactions": [
+            {
+                "account_id": "account48",
+                "amount": -247.22,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 514.16
+                },
+                "creationDate": "2021-01-08T00:00:00",
+                "text": "ATM WITHDRAWAL"
+            },
+            {
+                "account_id": "account48",
+                "amount": 420.8,
+                "balance": {
+                    "currency": "RUB",
+                    "value": 93.36
+                },
+                "creationDate": "2021-04-28T00:00:00",
+                "text": "payrol"
+            }
+        ]
+    },
+    {
+        "owner": "Leora Parra",
+        "availableBalance": 556.98,
+        "accountProvider": {
+            "name": "JP Morgan Chase",
+            "id": "JPMC"
+        },
+        "number": {
+            "iban": "DE0000000000000048"
+        },
+        "currency": "USD",
+        "transactions": [
+            {
+                "account_id": "account49",
+                "amount": 474.7,
+                "balance": {
+                    "currency": "USD",
+                    "value": 82.28
+                },
+                "creationDate": "2021-03-11T00:00:00",
+                "text": "International transfer income"
+            }
+        ]
+    },
+    {
+        "owner": "Lillian Simmons",
+        "availableBalance": 936.75,
+        "accountProvider": {
+            "name": "Barclays PLC",
+            "id": "BARC"
+        },
+        "number": {
+            "iban": "LU0000000000000049"
+        },
+        "currency": "USD",
+        "transactions": [
+            {
+                "account_id": "account50",
+                "amount": -698.23,
+                "balance": {
+                    "currency": "USD",
+                    "value": 1634.98
+                },
+                "creationDate": "2021-01-25T00:00:00",
+                "text": "Mortage payment"
+            },
+            {
+                "account_id": "account50",
+                "amount": 731.27,
+                "balance": {
+                    "currency": "USD",
+                    "value": 903.71
+                },
+                "creationDate": "2021-02-18T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account50",
+                "amount": -438.2,
+                "balance": {
+                    "currency": "USD",
+                    "value": 1341.91
+                },
+                "creationDate": "2021-03-25T00:00:00",
+                "text": "Mortage payment"
+            },
+            {
+                "account_id": "account50",
+                "amount": 779.49,
+                "balance": {
+                    "currency": "USD",
+                    "value": 562.42
+                },
+                "creationDate": "2021-04-09T00:00:00",
+                "text": "payrol"
+            },
+            {
+                "account_id": "account50",
+                "amount": 731.07,
+                "balance": {
+                    "currency": "USD",
+                    "value": -168.65
+                },
+                "creationDate": "2021-01-28T00:00:00",
+                "text": "International transfer income"
+            },
+            {
+                "account_id": "account50",
+                "amount": 521.57,
+                "balance": {
+                    "currency": "USD",
+                    "value": -690.22
+                },
+                "creationDate": "2021-05-03T00:00:00",
+                "text": "payrol"
+            }
+        ]
+    },
+    {
+        "owner": "Nancy Ferraro",
+        "availableBalance": "error",
+        "accountProvider": {
+            "name": "Barclays PLC",
+            "id": "BARC"
+        },
+        "number": "",
+        "currency": null,
+        "transactions": "test_transaction"
+    }
+]
